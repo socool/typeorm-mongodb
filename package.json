@@ -11,7 +11,7 @@
    "dependencies": {
       "typeorm": "0.3.17",
       "reflect-metadata": "^0.1.13",
-      "mongodb": "^5.2.0"
+      "mongodb": "^5.7.0"
    },
    "scripts": {
       "start": "ts-node src/index.ts",
